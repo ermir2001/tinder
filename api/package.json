@@ -1,9 +1,9 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "handler.js",
   "scripts": {
-    "start:backend": "nodemon index.js",
+    "start:backend": "nodemon handler.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
